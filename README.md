@@ -1,27 +1,27 @@
-# dmail - jvm desktop client
+# dmail - jvm desktop email client
 
 
 pomysly do programu
 
-- obsluga POP3, IMAP (w przyszlosci takze ms exchange'a)
-- obsluga SMTP
-- obsluga NNTP (to Twoj pomysl)
-- obsluga wielu kont pop/imap/smtp/nntp
-- obsluga podpisow cyfrowych (powiazana z kontami i odbiorcami itd)
-- odczyt ATOM/ATOM2/RSS
-- notatki
-- pogodynka (jak w evolution)
-- podsumowanie (http://www.luug-hn.org/artikel/evolution2-preview/evolution-old-1.png)
-- obsluga wiadomosci text/html (odbior i pisanie)
-- obsluga wielu stron kodowych
-- miedzynarodowy interfejs
-- zmiana tematow (ikon i gui'a)
-- zajebiscie szybka i sprawna wyszukiwarka (oparta na lucene)
-- tagowanie mail (wspomagajace wyszukiwanie)
-- obsluga lokalnych i zdalnych folderow
-- przechowywanie mail w formie tekstowej
-- jakis sensowny mechanizm bakapowania i archiwizowania mail
-- wypasiona ksiazka adresowa
-- mozliwosc podlaczania sie do ksiazek adresowych w LDAP
+* obsluga POP3, IMAP (w przyszlosci takze ms exchange'a)
+* obsluga SMTP
+* obsluga NNTP (to Twoj pomysl)
+* obsluga wielu kont pop/imap/smtp/nntp
+* obsluga podpisow cyfrowych (powiazana z kontami i odbiorcami itd)
+* odczyt ATOM/ATOM2/RSS
+* notatki
+* pogodynka (jak w evolution)
+* podsumowanie (http://www.luug-hn.org/artikel/evolution2-preview/evolution-old-1.png)
+* obsluga wiadomosci text/html (odbior i pisanie)
+* obsluga wielu stron kodowych
+* miedzynarodowy interfejs
+* zmiana tematow (ikon i gui'a)
+* zajebiscie szybka i sprawna wyszukiwarka (oparta na lucene)
+* tagowanie mail (wspomagajace wyszukiwanie)
+* obsluga lokalnych i zdalnych folderow
+* przechowywanie mail w formie tekstowej
+* jakis sensowny mechanizm bakapowania i archiwizowania mail
+* wypasiona ksiazka adresowa
+* mozliwosc podlaczania sie do ksiazek adresowych w LDAP
 
 i to tyle na poczatek, jak cos przyjdzie mi do glowy to dorzuce.. 
