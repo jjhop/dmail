@@ -5,13 +5,13 @@ pomysly do programu
 
 * obsluga POP3, IMAP (w przyszlosci takze ms exchange'a)
 * obsluga SMTP
-* obsluga NNTP (to Twoj pomysl)
-* obsluga wielu kont pop/imap/smtp/nntp
+* ~~obsluga NNTP~~
+* obsluga wielu kont pop/imap/smtp/~~nntp~~
 * obsluga podpisow cyfrowych (powiazana z kontami i odbiorcami itd)
 * odczyt ATOM/ATOM2/RSS
 * notatki
-* pogodynka (jak w evolution)
-* podsumowanie (http://www.luug-hn.org/artikel/evolution2-preview/evolution-old-1.png)
+* ~~pogodynka (jak w evolution)~~
+* podsumowanie na powitanie
 * obsluga wiadomosci text/html (odbior i pisanie)
 * obsluga wielu stron kodowych
 * miedzynarodowy interfejs
@@ -23,5 +23,3 @@ pomysly do programu
 * jakis sensowny mechanizm bakapowania i archiwizowania mail
 * wypasiona ksiazka adresowa
 * mozliwosc podlaczania sie do ksiazek adresowych w LDAP
-
-i to tyle na poczatek, jak cos przyjdzie mi do glowy to dorzuce.. 
