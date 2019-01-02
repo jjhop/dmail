@@ -1,3 +1,4 @@
+
 # dmail - jvm desktop email client
 
 
@@ -25,3 +26,10 @@ pomysly do programu
 * mozliwosc podlaczania sie do ksiazek adresowych w LDAP
 
 i to tyle na poczatek, jak cos przyjdzie mi do glowy to dorzuce.. 
+
+
+# building and packagin
+
+    $ boot uber
+    
+
